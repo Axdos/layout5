@@ -1,0 +1,93 @@
+*{
+    margin:0%
+}
+header{
+    overflow: hidden;
+}
+.logo{
+    height: 150px;
+    background-color: aliceblue;
+    text-align: center;
+    color: black;
+    float: left;
+    width: 15%;
+}
+.header_section{
+    font-size: 40px;
+    height: 150px;
+    background-color:gold;
+    text-align: center;
+    color: black;
+    float: right;
+    width: 85%;
+}
+.miscellaneous{
+    overflow: hidden;
+}
+.nav{
+    font-size: 20px;
+    height: 500px;
+    background-color:black;
+    text-align: center;
+    color: aliceblue;
+    float: left;
+    width: 15%;
+}
+.content{
+    overflow: hidden;
+}
+.upper_content{
+        overflow: hidden;
+}
+.upper_left{
+    font-size: 20px;
+    height: 200px;
+    background-color:darkgreen;
+    text-align: center;
+    color: lightyellow;
+    float: left;
+    width: 25%;
+}
+.upper_center{
+    font-size: 20px;
+    height: 200px;
+    background-color:rgb(2, 134, 2);
+    text-align: center;
+    color: lightyellow;
+    float: left;
+    width: 50%;
+}
+.upper_right{
+    font-size: 20px;
+    height: 200px;
+    background-color:rgb(8, 193, 8);
+    text-align: center;
+    color: lightyellow;
+    float: left;
+    width: 25%;
+}
+.middle_content{
+    font-size: 20px;
+    height: 150px;
+    background-color:rgb(212, 13, 13);
+    text-align: center;
+    color: lightyellow;
+    float: right;
+    width: 100%;
+}
+.lower_content{
+    font-size: 20px;
+    height: 150px;
+    background-color:green;
+    text-align: center;
+    color: lightyellow;
+    float: right;
+    width: 100%;
+}
+footer{
+    font-size: 20px;
+    height: 100px;
+    background-color:gold;
+    text-align: center;
+    color: black;
+}
